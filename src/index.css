@@ -135,27 +135,46 @@ body {
       background-color:#F5F3F3;
   }
 
-.text {
+  .text {
       font-size: 0;
-}
+  }
 
-.table {
+  .table {
     position: absolute;
+    font-family: 'Inter';
     width: 614px;
     height: 429px;
     left: 413px;
     top: 1026px;
     background: #FFFFFF;
     border-radius: 3px;
-}
-.works {
+  }
+
+  .td1 {
+  width: 161px;
+  }
+
+  .works {
     font-family: 'Inter';
     font-style: normal;
     font-size: 18px;
     font-weight: 500;
     letter-spacing: 0em;
-}
-.tables{
+  }
+
+  .col1 {
+  width: 161px;
+  }
+
+  .col2 {
+ width: 120px;
+  }
+
+  .col3 {
+  width: 246px;
+  }
+
+  .tables{
     position: relative;
     left: 45px;
     top: 15px;
@@ -164,16 +183,18 @@ body {
     font-size: large;
     width: 529px;
     height: 200px;
-}
+    padding: 0 0 0 0;
+  }
 
-.hrs2 {
+
+  .hrs2 {
     position: absolute;
     width: 614px;
     height: 3px;
     left: 413px;
     top: 1495px;
     background: #000000;    
-}
+  }
 
   .сontact-with-me {
     position: absolute;
@@ -184,15 +205,15 @@ body {
     font-weight: 500;
     font-size: 18px;
     color: #000000;
-}
+  }
 
-.contact-with-me p {
-    padding: 21px 0 31px 0;
-}
+  .contact-with-me p {
+    padding-left: 637px;
+  }
 
-.number {
+  .number {
     position: absolute;
-    left: 447px;
+    padding-left: 467px;
     top: 1550px;
     font-family: 'Inter';
     font-style: normal;
@@ -200,10 +221,11 @@ body {
     font-size: 14px;
     line-height: 17px;
     color: #000000;
-}
-.telega {
+  }
+
+  .telega {
     position: absolute;
-    left: 640px;
+    padding-left: 676px;
     top: 1550px;
     font-family: 'Inter';
     font-style: normal;
@@ -211,8 +233,9 @@ body {
     font-size: 14px;
     line-height: 17px;
     color: #000000;
-}
-.github {
+    }
+    
+  .github {
     position: absolute;
     padding-left: 35px;
     left: 820px;
@@ -223,4 +246,4 @@ body {
     font-size: 14px;
     line-height: 17px;
     color: #000000;
-}
+  }

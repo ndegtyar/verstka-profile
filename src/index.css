@@ -1,11 +1,11 @@
-body {
+  body {
     margin: 0;
     background-color: #B2C382;
     font-family: "Inter", Arial, Helvetica, sans-serif;
     font-weight: 400;
 }
 
-.container {
+  .container {
     width: 1200px;
     padding-left: 20px;
     padding-right: 20px;
@@ -213,7 +213,7 @@ body {
 
   .number {
     position: absolute;
-    padding-left: 467px;
+    padding-left: 462px;
     top: 1550px;
     font-family: 'Inter';
     font-style: normal;
@@ -234,7 +234,7 @@ body {
     line-height: 17px;
     color: #000000;
     }
-    
+
   .github {
     position: absolute;
     padding-left: 35px;
